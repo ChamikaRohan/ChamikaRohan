@@ -8,7 +8,7 @@
 
 <br>🚀 I thrive on adapting to the latest technologies, constantly expanding my toolkit to stay ahead in the ever-evolving tech field.
 <br>🤝 I am open to collaborations! Got a project idea or want to team up? Let's chat!
-<br>📧 Write me anytime: chamika707@gmail.com
+<br>📧 Write me! chamika707@gmail.com
 
 
 ## 🌐 Socials:
