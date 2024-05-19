@@ -4,7 +4,8 @@
   - Web Development: 🌐
   - Deep Learning: 🤖
   - Machine Learning: 🧠
-  - Natural Language Processing 📝
+  - Natural Language Processing: 📝
+  - Machine Vision/Image Processing: 📷
 
 <br>🚀 I thrive on adapting to the latest technologies, constantly expanding my toolkit to stay ahead in the ever-evolving tech field.
 <br>🤝 I am open to collaborations! Got a project idea or want to team up? Let's chat!
